@@ -93,6 +93,7 @@ Backend services with Spring Boot
 📚 Currently Learning
 
 Advanced Spring Boot & backend security
+Advanced React patterns 
 
 Scalable system and API design
 
